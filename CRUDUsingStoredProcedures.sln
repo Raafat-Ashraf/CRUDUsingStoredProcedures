@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDUsingStoredProcedures.Api", "CRUDUsingStoredProcedures.Api\CRUDUsingStoredProcedures.Api.csproj", "{AB637F5E-6138-41ED-82E8-626F97A8594E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF2749D8-3948-45FA-AA8A-5FFE618B6AA8}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB637F5E-6138-41ED-82E8-626F97A8594E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB637F5E-6138-41ED-82E8-626F97A8594E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB637F5E-6138-41ED-82E8-626F97A8594E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB637F5E-6138-41ED-82E8-626F97A8594E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

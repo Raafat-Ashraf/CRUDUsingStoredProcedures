@@ -1,0 +1,6 @@
+﻿services:
+  crudusingstoredprocedures.api:
+    image: crudusingstoredprocedures.api
+    build:
+      context: .
+      dockerfile: CRUDUsingStoredProcedures.Api/Dockerfile
